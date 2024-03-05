@@ -8,7 +8,7 @@ https://github.com/bluenviron/mediamtx
 
 ffmpeg
 
-python requirements:
+#Python requirements:
 
 opencv
 librealsense
